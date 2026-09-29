@@ -1,1 +1,1 @@
-# Inaloz-1
+My full name is Zolani K. Ooga
