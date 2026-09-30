@@ -1,1 +1,2 @@
 The addition of two integers means combining two whole numbers to get a total. The + sign tells the computer to add them together. For example, 5 + 3 = 8.
+Example 2: 8 + (-3) = 5. When adding two integers, combine their values while following the rules for positive and negative numbers.
